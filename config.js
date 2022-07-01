@@ -1,17 +1,17 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.wm = `◈ ZeusBotz` //UBAH JADI NAMAMU
-global.botwm = `◈ ZeusBotzV3` //UBAH JADI NAMAMU
+global.wm = `◈ bagaz` //UBAH JADI NAMAMU
+global.botwm = `◈ BagasBotzV3` //UBAH JADI NAMAMU
 
-global.name = 'Zeus Botz'// nama bot
-global.dev = `Pilar`// developer
+global.name = 'Bagas Botz'// nama bot
+global.dev = `Bagas`// developer
 
 
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP']
 //kalo mau ubah nama owner nya ubah di ../plugins/creator.js
-global.owner = ['6289625556161','62896255561617'] // Letakan nomor kamu disini
+global.owner = ['62881010244718','62881010244718'] // Letakan nomor kamu disini
 global.mods = ['0'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
